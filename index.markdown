@@ -27,4 +27,4 @@ Wes listens and truly considers what others have to say. He strives for thorough
 
 Wes will need your support for us to win this county seat. Can you donate? Every little bit helps! 
 <hr>
-<a class="donate" href="https://www.paypal.com/donate/?hosted_button_id=ND9W5MU84U3H8" target="_blank">Paypal</a> <a class="donate" href="https://venmo.com/u/Wes4saltlake" target="_blank">Venmo</a>
+<a class="button-link" href="https://www.paypal.com/donate/?hosted_button_id=ND9W5MU84U3H8" target="_blank">Paypal</a> <a class="button-link" href="https://venmo.com/u/Wes4saltlake" target="_blank">Venmo</a>
