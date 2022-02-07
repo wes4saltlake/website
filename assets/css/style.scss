@@ -1,0 +1,59 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
+.logo {
+  max-width: 200px;
+}
+
+.logo:hover {
+  outline: 2px solid #ffb402;
+}
+
+.img-left {
+  float: left;
+  max-width: 50%;
+  margin: 0 2rem 1rem 0;
+}
+
+.img-right {
+  float: right;
+  max-width: 50%;
+  margin: 0 0 1rem 2rem;
+}
+
+.img-full {
+  width: 100%;
+}
+
+.button-link {
+  background: #7e2980;
+  border: none;
+  padding: .6rem .8rem;
+  color: #fff;
+  font-size: 1rem;
+  text-shadow: 1px 1px 2px #000;
+}
+
+.button-link:visited {
+  color: #ffffff;
+}
+
+.button-link:hover {
+  outline: 2px solid #ffb402;
+  text-decoration: none;
+}
+
+hr {
+  background: #ffb402;
+  height: 2px;
+  border: none;
+}
+
+p {
+  margin-bottom: 1.5rem;
+}

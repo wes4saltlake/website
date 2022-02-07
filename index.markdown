@@ -1,10 +1,12 @@
 ---
 layout: home
 title: Home
+exclude: true
 ---
 
 ## Why is Wes Running?
 
+<img class="img-right" src="assets/wes.jpeg">
 Wes Long is running to help our county flourish during a unique and challenging period of our history. As our communities continue to grow and complex issues demand our attention, it is high time we came together and seek out ways to better live with one another.
 
 The Salt Lake County Council is but one of many important ways to make happier, healthier communities a reality. With your support and guidance, Wes believes that we can have a seat at that table.”
@@ -24,5 +26,5 @@ Wes listens and truly considers what others have to say. He strives for thorough
 ## Support Wes
 
 Wes will need your support for us to win this county seat. Can you donate? Every little bit helps! 
-
-<a href="https://www.paypal.com/donate/?hosted_button_id=ND9W5MU84U3H8" target="_blank"><button>Paypal</button></a> <a href="https://venmo.com/u/Wes4saltlake" target="_blank"><button>Venmo</button></a>
+<hr>
+<a class="donate" href="https://www.paypal.com/donate/?hosted_button_id=ND9W5MU84U3H8" target="_blank">Paypal</a> <a class="donate" href="https://venmo.com/u/Wes4saltlake" target="_blank">Venmo</a>
